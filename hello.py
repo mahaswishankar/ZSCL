@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('cheeku cheeku cheeku cheeku puku lo aaku')
+st.title('cheeku cheeku cheeku, cheeku puku lo aaku')
 
 st.write('cheeku cheeku kojja puku')
 
