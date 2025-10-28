@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title('praveen pukku')
+st.title('Sommu Sommu somu gudha lo paamu')
 
-st.write('praveen lanja')
+st.write('somu somu samosa somu pukkulo paamu busa')
 
-img = st.file_uploader('praveen vp')
+img = st.file_uploader('somu nee puuku photo pettu raa')
