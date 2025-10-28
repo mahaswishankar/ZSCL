@@ -1,7 +1,7 @@
 import streamlit as st
 
-st.title('Sommu Sommu somu gudha lo paamu')
+st.title('cheeku cheeku cheeku cheeku puku lo aaku')
 
-st.write('somu somu samosa somu pukkulo paamu busa')
+st.write('cheeku cheeku kojja puku')
 
-img = st.file_uploader('somu nee puuku photo pettu raa')
+img = st.file_uploader('Gani tagutha pani po raa soni dengutha vadini rani')
